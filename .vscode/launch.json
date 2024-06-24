@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.example.gametime.App",
+      "projectName": "gametime"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.example.as.App",
+      "projectName": "asd"
+    },
+    {
       "name": "Run Current File",
       "type": "node",
       "request": "launch",
